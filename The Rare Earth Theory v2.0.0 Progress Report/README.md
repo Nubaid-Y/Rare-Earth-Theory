@@ -1,4 +1,4 @@
-# The Rare Earth Theory v2.0.0
+# The Rare Earth Theory v2.0.0: Progress Report
 
 Hello everyone,
 
