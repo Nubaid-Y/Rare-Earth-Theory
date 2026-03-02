@@ -58,7 +58,7 @@ Once the player clicks anywhere within the green ring, a rocky planet is generat
 
 To conclude, I believe this project will be completed in the near future. My goal is to finish it by the end of March, especially since I have spring break to put time into development.
 
-(Anything beyond this point is completely useless information and just me talking about life and venting. Please feel free to skip to section 5 if you wish.)
+(Anything beyond this point is completely useless information and just me talking about life and venting. Please feel free to skip if you wish.)
 
 To be honest, spring break has been far more boring than I anticipated. I expected to meet up with friends, but I never actually made plans, and now I find myself looking forward to summer instead. I thought there would be more to do, but there really is not. Hobbies like weight lifting take maybe a few hours of your day at most, and I want to put the rest of the day to use instead of rotting in bed.
 
